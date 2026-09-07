@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "categories": "Categorías",
+    "deals": "Ofertas",
+    "shopNow": "Comprar Ahora"
+  },
+  "hero": {
+    "eyebrow": "Nuevos productos cada semana",
+    "title": "Productos audaces. Mejores precios.",
+    "subtitle": "Descubre colecciones curadas en electrónica, moda, belleza y más. Compra con confianza y recibe tu pedido rápidamente.",
+    "cta_primary": "Comprar Ahora",
+    "cta_secondary": "Explorar Categorías",
+    "badge_free": "Envío gratis en compras mayores a $50",
+    "badge_returns": "Devoluciones en 30 días",
+    "badge_support": "Soporte 24/7"
+  },
+  "categories": {
+    "heading": "Comprar por Categoría",
+    "subheading": "Encuentra exactamente lo que buscas en nuestras colecciones curadas.",
+    "filter_all": "Todos"
+  },
+  "products": {
+    "heading": "Productos Destacados",
+    "subheading": "Favoritos seleccionados con el mejor valor esta temporada.",
+    "sale_badge": "Oferta",
+    "add_to_cart": "Agregar al Carrito",
+    "out_of_stock": "Agotado",
+    "loading": "Cargando productos...",
+    "empty": "No se encontraron productos en esta categoría.",
+    "reviews_suffix": "reseñas",
+    "off_label": "descuento",
+    "view_all": "Ver todo",
+    "quick_view": "Vista Rápida",
+    "wishlist_add": "Agregar a favoritos",
+    "wishlist_remove": "Eliminar de favoritos"
+  },
+  "values": {
+    "heading": "Por Qué Comprar Con Nosotros",
+    "subheading": "Construimos Nova Shop alrededor de lo que realmente importa a nuestros clientes.",
+    "items": [
+      {
+        "title": "Free & Fast Shipping",
+        "desc": "Orders over $50 ship free. Most orders arrive within 2 business days, guaranteed."
+      },
+      {
+        "title": "Hassle-Free Returns",
+        "desc": "Changed your mind? Return anything within 30 days, no questions asked, fully refunded."
+      },
+      {
+        "title": "Secure Checkout",
+        "desc": "Your payment info is encrypted end-to-end. We never store card details on our servers."
+      },
+      {
+        "title": "Curated Quality",
+        "desc": "Every product is vetted by our team. We only list items we'd buy ourselves."
+      },
+      {
+        "title": "Price Match Promise",
+        "desc": "Found it cheaper elsewhere? We'll match any verified price from a major retailer."
+      },
+      {
+        "title": "Loyalty Rewards",
+        "desc": "Earn points on every purchase. Redeem them for discounts on future orders."
+      }
+    ]
+  },
+  "social_proof": {
+    "heading": "Amado por Miles",
+    "subheading": "Clientes reales. Reseñas reales. Sin filtros.",
+    "stats": [
+      {
+        "value": "120K+",
+        "label": "Happy customers"
+      },
+      {
+        "value": "4.8",
+        "label": "Average rating"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction rate"
+      },
+      {
+        "value": "2-day",
+        "label": "Average delivery"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Sarah M.",
+        "location": "New York, NY",
+        "rating": 5,
+        "text": "The quality blew me away. My order arrived in two days, perfectly packaged. Nova Shop is now my go-to for everything."
+      },
+      {
+        "name": "James T.",
+        "location": "Austin, TX",
+        "rating": 5,
+        "text": "I was skeptical at first, but the price match promise sealed the deal. Saved $40 on my headphones and got them next day."
+      },
+      {
+        "name": "Priya K.",
+        "location": "San Francisco, CA",
+        "rating": 5,
+        "text": "Returns are genuinely painless. I returned a jacket that didn't fit and had my refund within 24 hours. Incredible service."
+      }
+    ]
+  },
+  "newsletter": {
+    "eyebrow": "Mantente informado",
+    "heading": "Obtén 10% de descuento en tu primer pedido",
+    "subheading": "Suscríbete para recibir ofertas exclusivas, nuevos productos y consejos de estilo directamente en tu bandeja de entrada.",
+    "placeholder": "Ingresa tu dirección de correo",
+    "cta": "Suscribirse",
+    "disclaimer": "Sin spam, nunca. Desuscríbete en cualquier momento.",
+    "success_heading": "¡Ya estás dentro!",
+    "success_body": "Revisa tu bandeja de entrada para obtener tu código de descuento del 10%."
+  },
+  "footer": [
+    "Shop — All Products",
+    "Shop — New Arrivals",
+    "Shop — Sale Items",
+    "Shop — Gift Cards",
+    "Help — Track My Order",
+    "Help — Returns & Exchanges",
+    "Help — Shipping Policy",
+    "Help — Contact Support",
+    "Company — About Us",
+    "Company — Careers",
+    "Company — Press",
+    "Company — Privacy Policy",
+    "Follow us — Instagram @novashop",
+    "Follow us — TikTok @novashop",
+    "Follow us — Pinterest @novashop",
+    "© 2024 Nova Shop. All rights reserved."
+  ]
+}
